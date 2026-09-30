@@ -1,18 +1,17 @@
-# VPN IP Saudi Arabia — Dr VPN
+# VPN IP Saudi Arabia — Fast, Secure VPN for Saudi Arabia
 
-**VPN IP Saudi Arabia** is a fast, secure and free VPN for Android. Get a **Saudi Arabia IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Saudi Arabia** is a free, open-source, ad-free VPN app for Android, built for users in Saudi Arabia. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Saudi Arabia (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_sa_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-saudi-arabia/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Saudi Arabia IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Saudi Arabia, Saudi Arabia VPN, VPN IP Saudi Arabia, Saudi Arabia IP address, free VPN Saudi Arabia, buy VPN Saudi Arabia, fast VPN Saudi Arabia, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Saudi Arabia, free VPN Saudi Arabia, fast VPN, VPN IP Saudi Arabia, Android VPN, unblock websites Saudi Arabia.</sub>
